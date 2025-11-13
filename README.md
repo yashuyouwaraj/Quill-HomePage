@@ -1,4 +1,3 @@
----
 
 # Quill HomePage
 
@@ -41,4 +40,4 @@ This repository is designed for practicing and showcasing frontend design skills
 3. Customize the UI or extend the layout as needed.
 
 ## 📸 Preview
-
+![Quill HomePage Screenshot](./Header.png)
