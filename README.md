@@ -1,4 +1,4 @@
-
+![Quill HomePage Screenshot](./Header.png)
 # Quill HomePage
 
 A clean and modern homepage UI built using **HTML** and **CSS**. This project focuses on creating a visually appealing landing page layout inspired by contemporary product and SaaS websites. It includes structured sections, responsive design elements, and neatly organized code to help beginners and frontend learners understand layout building from scratch.
@@ -40,4 +40,5 @@ This repository is designed for practicing and showcasing frontend design skills
 3. Customize the UI or extend the layout as needed.
 
 ## 📸 Preview
-![Quill HomePage Screenshot](./Header.png)
+![Quill Body Screenshot](./Body.png)
+![Quill Footer Screenshot](./Footer.png)
